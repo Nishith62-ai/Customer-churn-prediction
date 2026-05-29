@@ -169,7 +169,7 @@ curl -X POST http://localhost:8000/predict \
 
 | ROC Curves (All Models) | Confusion Matrix |
 |---|---|
-| ![ROC](outputs/roc_curves.png) | ![CM](outputs/confusion_matrix.png) |
+| ![ROC]roc_curves.png| ![CM](outputs/confusion_matrix.png) |
 
 | Feature Importance | Precision-Recall |
 |---|---|
