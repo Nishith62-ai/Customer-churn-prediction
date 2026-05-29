@@ -169,7 +169,7 @@ curl -X POST http://localhost:8000/predict \
 
 | ROC Curves (All Models) | Confusion Matrix |
 |---|---|
-| ![ROC]roc_curves.png| ![CM](outputs/confusion_matrix.png) |
+| ![ROC](outputs/roc_curves.png)| ![CM](outputs/confusion_matrix.png) |
 
 | Feature Importance | Precision-Recall |
 |---|---|
@@ -206,12 +206,9 @@ Records: 7,043 customers | Features: 21 | Target: `Churn` (Yes/No)
 
 ## 👤 Author
 
-**Your Name**  
+**D.Nisith**  
 B.Tech CSE (AI & ML) — Dayananda Sagar University  
 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
 
 ---
 
-## 📄 License
-
-MIT License — free to use, modify, and distribute with attribution.
