@@ -208,7 +208,7 @@ Records: 7,043 customers | Features: 21 | Target: `Churn` (Yes/No)
 
 **D.Nisith**  
 B.Tech CSE (AI & ML) — Dayananda Sagar University  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](www.linkedin.com/in/nishith-darsi-17abb83) · [GitHub](https://github.com/yourusername)
 
 ---
 
